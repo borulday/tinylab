@@ -13,6 +13,7 @@ pin 11 is connected to LOAD
 
 #include <Wire.h>
 #include <Time.h>
+#include <TimeLib.h>
 #include <DS1307RTC.h>
 #include <LedControl.h>
 
